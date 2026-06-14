@@ -26,8 +26,8 @@ Ensure you have the following installed:
 ### Steps to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/BSKanoje/Sentiment-Analysis-On-YouTube-Comments.git
-   cd Sentiment-Analysis-On-YouTube-Comments
+   git clone https://github.com/NikitaRakhade29/sentiment_analysis_on_youtube_comments.git
+   cd sentiment_analysis_on_youtube_comments
    ```
 
 2. Install dependencies:
