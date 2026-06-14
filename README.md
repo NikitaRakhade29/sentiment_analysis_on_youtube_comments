@@ -49,7 +49,6 @@ Ensure you have the following installed:
 ![image](https://github.com/user-attachments/assets/f99e4b20-78e8-4701-83a3-baca415e4275)
 ![image](https://github.com/user-attachments/assets/251ee777-8d4b-4bf9-8ad4-11297c6411f2)
 ![image](https://github.com/user-attachments/assets/00480aca-5219-4c68-8e00-15710dbe2305)
-<img width="1046" height="517" alt="image" src="https://github.com/user-attachments/assets/538c66dc-924b-4f64-bb57-28e49b70d7a3" />
 
 
 ## Future Enhancements
